@@ -1,2 +1,2 @@
-# Md_Photo
-Markdown图片用
+# 做一个Markdown和LaTeX的入门教程
+我自己也就刚入门的水平,这里放了一个入门教程,还有一些LaTeX包
