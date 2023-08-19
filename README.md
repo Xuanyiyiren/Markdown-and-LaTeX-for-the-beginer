@@ -8,6 +8,3 @@
 其中复旦大学物理实验报告模板来自[https://gist.github.com/stone-zeng/64a43eb7bfc6bae1640784e7c373824a](https://gist.github.com/stone-zeng/64a43eb7bfc6bae1640784e7c373824a)
 
 其中图标处理参考代码是我自己在物理实验报告模板的基础上东拼西凑搞成的。
-
-
-另一种写法是`\left| a \right|`，但是这里的竖线似乎和表格冲突了，在别的一些编译器里面跑不出来。它的效果是$\left| a \right|$。和表格里展示的不一样的就在于这种可以随着里面的内容变大变小，而表格里的做不到，例如$\left| \frac ab \right|$
